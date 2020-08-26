@@ -17,7 +17,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="C" width="28px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
+<img align="left" alt="C" width="30px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
 
 <img align="left" alt="Cpp" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/cpp/cpp.svg" />
 

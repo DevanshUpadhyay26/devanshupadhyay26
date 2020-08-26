@@ -11,9 +11,7 @@
 [<img align="left" alt="devanshupadhyay26 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="devanshupadhyay26 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="devanshupadhyay26 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="devanshupadhyay26 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/facebook.svg />][facebook]
-[<img align="left" alt="devanshupadhyay26 | Dev.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/dev-dot-to.svg />][dev]
-[<img align="left" alt="devanshupadhyay26 | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/telegram.svg />][telegram]
+
 
 <br />
 
@@ -56,7 +54,5 @@
 [youtube]: https://www.youtube.com/channel/ucfajv7unnflrx8sd0mtx0ca?view_as=subscriber
 [twitter]: https://twitter.com/___Devansh___
 [instagram]: https://www.instagram.com/devansh.xd/
-[facebook]: https://www.facebook.com/profile.php?id=100004959046721
-[dev]: https://dev.to/devanshupadhyay26
-[telegram]: https://t.me/Dev_024
+
 

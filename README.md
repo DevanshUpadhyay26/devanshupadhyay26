@@ -1,7 +1,7 @@
 ### Hi there, I'm Devansh  👋
 ##  I'm a Student, Developer, and Gamer!
 
-- 🔭 I’m currently working on a App Development!
+- 🔭 I’m currently working on App Development!
 - 🌱 I’m currently learning **Flutter, Dart**
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw!

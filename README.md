@@ -14,7 +14,7 @@
 [<img align="left" alt="devanshupadhyay26 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/facebook.svg" />][facebook]
 [<img align="left" alt="devanshupadhyay26 | Dev.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/dev-dot-to.svg" />][dev]
 [<img align="left" alt="devanshupadhyay26 | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/telegram.svg"/>][telegram]
-
+[<img align="left" alt="devanshupadhyay26 | Xda" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/xdadevelopers.svg"/>][xda]
 
 <br />
 
@@ -63,3 +63,4 @@
 [facebook]: https://www.facebook.com/profile.php?id=100004959046721
 [dev]: https://dev.to/devanshupadhyay26
 [telegram]: https://t.me/Dev_024
+[xda]: https://forum.xda-developers.com/member.php?u=11060113

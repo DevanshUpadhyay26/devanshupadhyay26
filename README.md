@@ -2,7 +2,7 @@
 ##  I'm a Student, Developer, and Gamer!
 
 - 🔭 I’m currently working on App Development!
-- 🌱 I’m currently learning **Flutter, Dart**
+- 🌱 I’m currently learning **Java, Kotlin**
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw!
 

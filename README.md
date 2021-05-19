@@ -2,7 +2,7 @@
 ##  I'm a Student, Developer, and Gamer!
 
 - 🔭 I’m currently working on App Development!
-- 🌱 I’m currently learning in backend languages with some frameworks
+- 🌱 I’m currently learning backend languages with some frameworks
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 
@@ -20,7 +20,7 @@
 
 ### Languages and Tools:
  <b>Backend<b>
-   * C,CPP,Java
+   * C, CPP, Java
  
  <b>Web Development<b>
    * HTML,CSS,Javascript,NodeJs,Bootstrap,PHP

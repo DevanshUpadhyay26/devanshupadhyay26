@@ -8,23 +8,23 @@
 
 ### Connect with me:
   
-  <b><a href="https://www.instagram.com/devansh.xd/">Instagram</a><b><br><br>
+  <b><a href="https://www.instagram.com/devansh.xd/">Instagram</a><b><br>
   <b><a href="https://t.me/Dev_024">Telegram</a><b>
 
-<br />
+
 
 ### Languages and Tools:
- <b>Backend<b>
-   * C, CPP, Java
- 
- <b>Web Development<b>
-   * HTML, CSS, Javascript, NodeJS, Bootstrap, PHP
-  
- <b>Android Development<b>
-   * Dart, Flutter
-  
-  <b>Database<b>
-   * MySQL
+     <b>Backend<b>
+       * C, CPP, Java
+
+     <b>Web Development<b>
+       * HTML, CSS, Javascript, NodeJS, Bootstrap, PHP
+
+     <b>Android Development<b>
+       * Dart, Flutter
+
+      <b>Database<b>
+       * MySQL
 <br />
 
 ### Github Stats

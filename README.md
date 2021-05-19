@@ -7,10 +7,9 @@
 
 
 ### Connect with me:
-
-[<img align="left" alt="devanshupadhyay26 | Instagram" width="22px" src="https://img-premium.flaticon.com/png/512/87/87390.png?token=exp=1621432425~hmac=a53b08c653689ec0b0cb71d95913ac6c" />][instagram]
-[<img align="left" alt="devanshupadhyay26 | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/telegram.svg"/>][telegram]
-
+  
+  <a href="https://www.instagram.com/devansh.xd/">Instagram</a>
+  <a href="https://t.me/Dev_024">Telegram</a>
 
 <br />
 
@@ -32,11 +31,3 @@
 
 <img alt="Devansh Upadhyay's Github Stats" src="https://github-readme-stats.vercel.app/api?username=devanshupadhyay26&show_icons=true&count_private=true" />
 
-
-[youtube]: https://www.youtube.com/channel/ucfajv7unnflrx8sd0mtx0ca?view_as=subscriber
-[twitter]: https://twitter.com/___Devansh___
-[instagram]: https://www.instagram.com/devansh.xd/
-[facebook]: https://www.facebook.com/profile.php?id=100004959046721
-[dev]: https://dev.to/devanshupadhyay26
-[telegram]: https://t.me/Dev_024
-[xda]: https://forum.xda-developers.com/member.php?u=11060113

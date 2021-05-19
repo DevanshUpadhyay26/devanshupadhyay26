@@ -2,7 +2,7 @@
 ##  I'm a Student, Developer, and Gamer!
 
 - 🔭 I’m currently working on App Development!
-- 🌱 I’m currently learning **Dart & Flutter**
+- 🌱 I’m currently learning in backend languages with some frameworks
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 

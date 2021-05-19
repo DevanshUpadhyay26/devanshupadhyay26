@@ -8,8 +8,8 @@
 
 ### Connect with me:
   
-  <a href="https://www.instagram.com/devansh.xd/">Instagram</a>
-  <a href="https://t.me/Dev_024">Telegram</a>
+  <b><a href="https://www.instagram.com/devansh.xd/">Instagram</a><b><br><br>
+  <b><a href="https://t.me/Dev_024">Telegram</a><b>
 
 <br />
 

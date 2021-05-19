@@ -29,7 +29,7 @@
    * Dart, Flutter
   
   <b>Database<b>
-    *MySQL
+   * MySQL
 <br />
 
 ### Github Stats

@@ -23,7 +23,7 @@
    * C, CPP, Java
  
  <b>Web Development<b>
-   * HTML,CSS,Javascript,NodeJs,Bootstrap,PHP
+   * HTML, CSS, Javascript, NodeJS, Bootstrap, PHP
   
  <b>Android Development<b>
    * Dart, Flutter

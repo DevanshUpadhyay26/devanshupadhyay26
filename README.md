@@ -21,10 +21,13 @@
 ### Languages and Tools:
  <b>Backend<b>
    * C,CPP,Java
+ 
  <b>Web Development<b>
    * HTML,CSS,Javascript,NodeJs,Bootstrap,PHP
+  
  <b>Android Development<b>
    * Dart, Flutter
+  
   <b>Database<b>
     *MySQL
 <br />

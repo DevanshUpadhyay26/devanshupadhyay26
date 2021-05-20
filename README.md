@@ -25,6 +25,9 @@
 
  <b>Database<b>
    * MySQL
+   
+ <b>Tools<b>
+   * Git, VS Studio, Andorid  Studio
 <br />
 
 

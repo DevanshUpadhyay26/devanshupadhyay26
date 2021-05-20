@@ -27,7 +27,7 @@
    * MySQL
    
  <b>Tools<b>
-   * Git, VS Studio, Andorid  Studio
+   * Git, VS Code, Andorid  Studio
 <br />
 
 

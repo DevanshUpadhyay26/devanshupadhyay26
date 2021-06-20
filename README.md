@@ -9,7 +9,7 @@
 ### Connect with me:
   
   <b><a href="https://www.instagram.com/devansh.xd/">Instagram</a><b><br>
-  <b><a href="https://t.me/Dev_024">Telegram</a><b>
+  <b><a href="https://t.me/Dev_024">Telegram</a><b><br>
   <b><a href="https://leetcode.com/devansh_u112/">LeetCode</a><b>
 
 

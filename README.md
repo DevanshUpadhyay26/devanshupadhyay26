@@ -1,8 +1,8 @@
 ### Hi there, I'm Devansh  👋
 ##  I'm a Student, Developer, and Gamer!
 
-- 🔭 I’m currently working on App Development!
-- 🌱 I’m currently learning backend languages with some frameworks
+- 🔭 I’m currently working on WebApps!
+- 🌱 I’m currently learning automation with python
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 
@@ -14,7 +14,7 @@
 
 
 
-## Languages and Tools:
+## Skills and Tools:
 <b>Backend<b>
    * C, CPP, Java
   

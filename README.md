@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning automation with python
 
 
-### Connect with me:
+## Connect with me:
   
   <b><a href="https://www.instagram.com/devansh.xd/">Instagram</a><b><br>
   <b><a href="https://t.me/Dev_024">Telegram</a><b><br>

@@ -1,9 +1,8 @@
 ### Hi there, I'm Devansh  👋
-##  I'm a Student, Developer, and Gamer!
+##  I'm a Student and Developer!
 
 - 🔭 I’m currently working on WebApps!
 - 🌱 I’m currently learning automation with python
-- 🥅 2021 Goals: Contribute more to Open Source projects
 
 
 ### Connect with me:

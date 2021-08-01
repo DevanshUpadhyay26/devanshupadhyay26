@@ -2,7 +2,7 @@
 ##  I'm a Student and Developer!
 
 - 🔭 I’m currently working on WebApps!
-- 🌱 I’m currently learning automation with python
+- 🌱 I’m currently learning MERN stack 
 
 
 ## Connect with me:

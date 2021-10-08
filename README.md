@@ -1,7 +1,7 @@
 ### Hi there, I'm Devansh  👋
 ##  I'm a Student and Developer!
 
-- 🔭 I’m currently working on WebApps!
+- 🔭 I’m currently working on Personal Projects
 - 🌱 I’m currently learning Artifical Intelligence and Machine Learning with python from Coursera/Cognitive Class
 
 ## Connect with me:

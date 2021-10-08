@@ -2,7 +2,7 @@
 ##  I'm a Student and Developer!
 
 - 🔭 I’m currently working on WebApps!
-- 🌱 I’m currently learning Artifical Intelligence and Machine Learning from Coursera/Cognitive Class
+- 🌱 I’m currently learning Artifical Intelligence and Machine Learning with python from Coursera/Cognitive Class
 
 ## Connect with me:
   

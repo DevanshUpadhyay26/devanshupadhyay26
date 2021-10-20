@@ -6,10 +6,11 @@
 
 ## Connect with me:
   
-  <b><a href="mailto:devanshupadhyay26@gmail.com">Email</a><b><br>
   <b><a href="https://t.me/Dev_024">Telegram</a><b><br>
   <b><a href="https://www.facebook.com/profile.php?id=100004959046721">Facebook</a><b><br>
-  <b><a href="https://leetcode.com/devansh_u112/">LeetCode</a><b>
+  <b><a href="https://dev.to/devanshupadhyay26">DEV</a><b><br>
+  <b><a href="https://www.linkedin.com/in/devansh-upadhyay/">Linkedin</a><b><br>
+   
 
 ## Skills:
 <img src="https://img.icons8.com/fluency/38/000000/flutter.png" />

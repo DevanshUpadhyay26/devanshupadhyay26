@@ -13,6 +13,8 @@
    
 
 ## Skills:
+<img src="https://img.icons8.com/ios-filled/30/000000/c.png"/>
+<img src="https://img.icons8.com/color/38/000000/c-plus-plus-logo.png"/>
 <img src="https://img.icons8.com/fluency/38/000000/flutter.png" />
 <img src="https://img.icons8.com/fluency/38/000000/python.png"/> 
 <img src="https://img.icons8.com/color/39/000000/java-coffee-cup-logo--v1.png"/>

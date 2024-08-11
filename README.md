@@ -1,6 +1,6 @@
 ### 👋 नमस्ते Developers, This is Devansh Upadhyay
 <!-- <p align="center"><img src="https://i.ibb.co/S3FwFX7/Developer.jpg" alt="Developer" border="0"></p> -->
-As a Aspiring Software Developer, I am deeply committed to using technology to solve complex problems. My academic and recreational projects are where I try to apply my knowledge. I spend all of my time learning, researching, reading books, and exercising (mainly gym and cricket). I also do freelancing sometimes. My freelancing projects mostly includes Web Development and Machine Learning Models. Currently learning DevOps and MLOps
+As a Aspiring Software Developer from India, I am deeply committed to using technology to solve complex problems. My academic and recreational projects are where I try to apply my knowledge. I spend all of my time learning, researching, reading books, and exercising (mainly gym and cricket). I also do freelancing sometimes. My freelancing projects mostly includes Web Development and Machine Learning Models. Currently learning DevOps and MLOps. 
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
@@ -10,7 +10,7 @@ As a Aspiring Software Developer, I am deeply committed to using technology to s
 
 ### 🤖 GitHub Stats
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devanshupadhyay26&label=Profile%20views&color=0e75b6&style=flat" alt="devanshupadhyay26" /> </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devanshupadhyay26&" alt="devanshupadhyay26" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devanshupadhyay26&" alt="devanshupadhyay26" /></p>-->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devanshupadhyay26&show_icons=true&locale=en" alt="devanshupadhyay26" /></p>
 
 

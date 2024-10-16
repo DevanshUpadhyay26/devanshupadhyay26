@@ -11,7 +11,7 @@ As a Aspiring Software Developer from India, I am deeply committed to using tech
 ### 🤖 GitHub Stats
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devanshupadhyay26&label=Profile%20views&color=0e75b6&style=flat" alt="devanshupadhyay26" /> </p>
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devanshupadhyay26&" alt="devanshupadhyay26" /></p>-->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devanshupadhyay26&show_icons=true&locale=en" alt="devanshupadhyay26" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devanshupadhyay26&show_icons=true&locale=en" alt="devanshupadhyay26" /></p> -->
 
 
 ### 🔗 Contact Me

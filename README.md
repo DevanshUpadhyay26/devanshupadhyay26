@@ -18,24 +18,24 @@
 
 I'm Devansh and I'm a Software Developer from India. Here's some info about me!
 
-🌱  Work experience: <br>
+🌱  **Work experience**: <br>
 - **Software Developer Engineer Intern** at SRFusion Tech [Remote, Feb 2024 - Apr 2024]
 - **Full Stack Intern** - at Red Fibre. [Remote. Summer 2023]
 
-🌱 Publications and Patent:
+🌱 **Publications and Patent**:<br>
 - Patent: Heart Attack Risk Prediction System with Wearable Device Integration and Personalized Guidance [Application No. 202421027477, Intellectual Property of India, 2024]
 - Research Paper: Early Heart Attack Prediction Using Transformers ; International Conference on Advanced Communication, Energy and Big Data. [AIP, 2024]
 
-🌱 Interests:
+🌱 **Interests**:<br>
 - Building projects, explore various technologies.
 - Reading Research papers, literatures.
 
-🌱 Tools and Technologies:
+🌱 **Tools and Technologies**:<br>
 - Programming Languages: Python, Java, SQL
 - Database: SQLite, MySQL
 - Tools and Framework: Django, DRF, Flask, SQLAlchemy, Pandas, NumPy, PyTest, HTML, CSS, Docker, Ollama, Git, Postman, Linux, AWS(EC2, S3), TCP/IP, Socket, JWT, OAuth2.0, VS Code.
 
-🌱 Contact me:
+🌱 **Contact me**:<br>
 - Portfolio: www.devy.tech
 - Linkedin: https://www.linkedin.com/in/devansh-upadhyay/
 - Email - devanshupadhyay26@gmail.com
